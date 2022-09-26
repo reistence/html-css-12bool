@@ -3,3 +3,24 @@
   margin: 0;
   box-sizing: border-box;
 }
+
+section {
+  margin-bottom: 2em;
+}
+.box {
+  background-color: crimson;
+  height: 40px;
+  border: 1px solid black;
+  color: white;
+  text-align: center;
+  padding: 0.5em;
+}
+.inner-box {
+  background-color: goldenrod;
+  border: 1px solid black;
+  color: white;
+  text-align: center;
+  padding: 0.1em;
+  margin: 0 auto;
+  align-items: center;
+}
